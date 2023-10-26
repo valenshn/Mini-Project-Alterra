@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GetOrderByID</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d1bd8bd5-2742-4e67-8a49-d29da20579d0</testCaseGuid>
+</TestCaseEntity>
