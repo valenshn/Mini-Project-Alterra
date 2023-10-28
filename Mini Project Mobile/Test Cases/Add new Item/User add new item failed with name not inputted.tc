@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User add new item failed with name not inputted</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>86bfdd09-71db-4cfc-abe8-0a723c90fe8c</testCaseGuid>
+</TestCaseEntity>

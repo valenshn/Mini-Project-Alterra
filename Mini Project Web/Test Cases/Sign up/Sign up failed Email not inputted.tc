@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Sign up failed Email not inputted</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d4776942-9598-445e-b830-d5121003829a</testCaseGuid>
+</TestCaseEntity>

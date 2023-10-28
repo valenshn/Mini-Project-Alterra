@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User add new item failed with quantity not inputted</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d8807f3a-8ff5-4bd7-8886-963e5fb02a28</testCaseGuid>
+</TestCaseEntity>
